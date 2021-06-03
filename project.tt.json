@@ -1,0 +1,13 @@
+{
+	"miniprogramRoot": "./",
+	"projectname": "fline-init_wechat",
+	"description": "小程序初始化项目",
+	"appid": "touristappid",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false
+	},
+	"compileType": "miniprogram"
+}
